@@ -1,0 +1,171 @@
+body{
+background-color: #DDDDDD;
+margin: 0;
+font-weight: 400;
+line-height: 1.5;
+text-align: left;
+}
+header{
+position: absolute;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 5%;
+background-color: #444444;
+height: 20%;
+width: 85%;
+}
+img.logo
+{
+position: relative;
+float:left;
+width: 15%;
+height: 100%;
+}
+nav.tittle{
+position: relative;
+height: 50%;
+width: 85%;
+margin-top: 5%;
+
+}
+ul{
+position: absolute;
+clear:left;
+left: 15%;
+height: 50%;
+width: 100%;
+}
+li{
+position: relative;
+padding: 4%;
+text-align: center;
+font-weight: bold;
+font-size: 200%;
+list-style-type:none;
+display:inline;
+background-color: black;
+color:white;
+
+}
+li:hover{
+background-color:lightyellow;
+}
+a:hover{
+	color:black;
+}
+div.banner{
+margin-right: 5%;
+margin-left: 5%;
+}
+img.banner{
+position: absolute;
+float: center;
+top: 30%;
+height: 50%;
+width: 85%;
+}
+section.introduction{
+position: absolute;
+height: auto;
+margin-right: 15%;
+margin-left: 5%;
+text-align: left;
+top:80%;
+width: 60%;
+background-color: 	#888888;
+}
+img.pon{
+box-sizing: border-box;
+width: 50%;
+height: auto;
+display: block;
+padding: 4%;
+background: #F4F0EC;
+border: 8px solid #333;
+box-shadow: 0 0 0 40px rgba(125,135,18,0.3) inset;
+float: left;
+}
+p.pon{
+font-size: 150%;
+font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體" Handwriting;
+}
+aside{
+position:absolute;
+padding: 3%;
+width: 20%;
+height: 20%;
+background-color: #f1f1f1;
+height: auto;
+top:80%;
+right: 10%;
+}
+iframe{
+	position: relative;
+}
+img.fb{
+	width: 20%;
+	height: 20%;
+}
+section.job{
+	position:absolute;
+	top:148%;
+	width: 85%;
+	height: auto;
+margin-right: 15%;
+margin-left: 5%;
+background-color: #AAAAAA;
+}
+h1{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+img.job{
+	width:400px;
+	float:left;
+}
+p.job{
+	font-size: 40px;
+		font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體" Handwriting;
+
+}
+article{
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+	position: absolute;
+	top:217%;
+	width:85%;
+	background-color: #000000;
+}
+table{
+	margin-bottom: 5%;
+	margin-right: 4%;
+	margin-left: 10%;
+	text-align: center;
+}
+td tr{
+		padding-top: 10%;
+	padding-right: 4%;
+	padding-left: 10%;
+}
+h1.img{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:white;
+}
+footer{
+	position: absolute;
+	background-color: black;
+  padding: 10px;
+	bottom:-270%;
+  margin-right: 100px;
+  text-align: center;
+  color: white;
+  width: 100%;
+  box-sizing: border-box;
+
+    bottom: 10;
+}
